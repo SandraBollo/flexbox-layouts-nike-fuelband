@@ -1,0 +1,67 @@
+body{
+	width: 0, auto;
+}
+
+header{
+	width: 80%;
+	margin: auto;
+	font-family: Helvetica, Arial, sans-serif;
+
+
+}
+*{
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+
+a{
+	text-decoration: none;
+	color: red;
+}
+.seccion-tex{
+	width: 80%;
+	margin: auto;
+}
+
+
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  
+
+}
+
+.img-tamaño{
+	width:100%;
+	margin-top:20%;
+}
+.text{
+	width:30%;
+	margin: auto;
+}
+.img-tex{
+	width: 50%;
+	margin: auto;
+}
+
+
+
+.section-img{
+	width: 80%;
+	margin: auto;
+	margin-top:5%;
+
+
+}
+
+
+.container-section{
+ display: flex;
+ flex-wrap: wrap;
+  
+}
+.img-row{
+	width: 26.6%;
+	margin: auto;
+}
